@@ -1,0 +1,4 @@
+@page { size: 1500px 1200px; margin: 0; }
+html, body { width: 1500px; }
+.reveal { opacity: 1 !important; transform: none !important; }
+.preview-dock { display:none !important; }
