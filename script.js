@@ -385,4 +385,3 @@ if (gl) {
 } else {
   window.shaderPulse = () => {};
 }
-
